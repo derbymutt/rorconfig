@@ -1,0 +1,4 @@
+DEF_VERSION         Version
+DEF_VERSIONPATH     path
+DEF_DISABLEITEM     disable
+DEF_ENABLEITEM      enable
